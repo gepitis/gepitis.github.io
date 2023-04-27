@@ -10,8 +10,8 @@ ML for Finance/Quant:
 - <a href="https://qoppac.blogspot.com/2023/04/advanced-futures-trading-strategies.html">Financial Machine Learning pitfalls: it’s levioosa, not leviosaa.</a>
 - <a href="https://quantpedia.com/which-factors-drive-the-hedge-fund-returns-a-machine-learning-approach/">Which factors drive the hedge fund returns, an ML approach. </a>
 - Hudson and Thames articles on ML for trading:
-  - https://hudsonthames.org/machine-learning-trading-essentials-part-1-financial-data-structures/
-  - https://hudsonthames.org/machine-learning-trading-essentials-part-2-fractionally-differentiated-features-filtering-and-labelling/
+  - <a href="https://hudsonthames.org/machine-learning-trading-essentials-part-1-financial-data-structures/">Machine Learning Trading Essentials (Part 1): Financial Data Structures.</a>
+  - <a href="https://hudsonthames.org/machine-learning-trading-essentials-part-2-fractionally-differentiated-features-filtering-and-labelling/">Machine Learning Trading Essentials (Part 2): Fractionally differentiated features, Filtering, and Labelling.</a>
 - <a href = "https://alphaarchitect.com/2023/04/trend-following-filters-part-6/">Trend following filters from a signal processing perspective.</a>
 - <a href = "https://arxiv.org/abs/2304.09840">Optimum Output Long Short-Term Memory Cell for High-Frequency Trading Forecasting</a>
 - <a href = "https://arxiv.org/abs/2304.11043">Can Perturbations Help Reduce Investment Risks? Risk-Aware Stock Recommendation via Split Variational Adversarial Training</a>
