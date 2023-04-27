@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 ML for Finance/Quant:
-- <a href="https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/">Reinventing financial services with next-gen AI.</a>
+- <a href="https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/" data-toggle="tooltip" data-original-title="{{site.summaries.summary1.summary1}}">Reinventing financial services with next-gen AI.</a>
 - <a href="https://qoppac.blogspot.com/2023/04/advanced-futures-trading-strategies.html">Financial Machine Learning pitfalls: it’s levioosa, not leviosaa.</a>
 - <a href="https://quantpedia.com/which-factors-drive-the-hedge-fund-returns-a-machine-learning-approach/">Which factors drive the hedge fund returns, an ML approach. </a>
 - Hudson and Thames articles on ML for trading:
