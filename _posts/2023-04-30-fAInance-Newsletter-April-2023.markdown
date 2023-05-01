@@ -1,14 +1,14 @@
 ---
 layout: default
 title:  "fAInance Newsletter - April 2023"
-date:   2023-04-26 05:35:34 +0100 
+date:   2023-04-30 05:35:34 +0100 
 categories: jekyll update
 ---
 
 # fAInance Newsletter - April 2023
  
 ## ML for Finance/Quant:
-- <a href="https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/" data-toggle="tooltip" data-original-title="{{site.summaries.summary1.summary1}}">Reinventing financial services with next-gen AI.</a>
+- <a href="https://venturebeat.com/ai/reinventing-financial-services-with-next-gen-ai/">Reinventing financial services with next-gen AI.</a>
 - <a href="https://qoppac.blogspot.com/2023/04/advanced-futures-trading-strategies.html">Financial Machine Learning pitfalls: it’s levioosa, not leviosaa.</a>
 - <a href="https://quantpedia.com/which-factors-drive-the-hedge-fund-returns-a-machine-learning-approach/">Which factors drive the hedge fund returns, an ML approach. </a>
 - Hudson and Thames articles on ML for trading:
@@ -36,6 +36,7 @@ categories: jekyll update
   - <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4399406">Can ChatGPT Decipher Fedspeak?</a>
   - <a href="https://quantpedia.com/can-we-backtest-asset-allocation-trading-strategy-in-chatgpt/?a=6080">Can We Backtest Asset Allocation Trading Strategy in ChatGPT?</a>
   - <a href="https://arxiv.org/abs/2304.07619">Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models</a>
+  - <a href="https://arxiv.org/abs/2304.09103?utm_source=substack&utm_medium=email">ChatGPT: Applications, Opportunities, and Threats</a>
 - <a href="https://github.com/Significant-Gravitas/Auto-GPT">Auto-GPT: A tool for automatically generating GPT-3 prompts.</a>
 - <a href="https://github.com/AI4Finance-Foundation">AI4Finance Foundation: open source toolbox for finance LLMs.</a>
 
