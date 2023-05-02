@@ -22,16 +22,16 @@ categories: jekyll update
 ## ML Research:
 - <a href="https://news.mit.edu/2023/method-designing-neural-networks-optimally-suited-certain-tasks-0330?utm_source=ONTRAPORT-email-broadcast&utm_medium=ONTRAPORT-email-broadcast&utm_term=Newsletter&utm_content=Data+Science+Insider%3A+April+7th%2C+2023&utm_campaign=08042023">A method for designing neural networks optimally suited for certain tasks.</a>
 - <a href="https://arxiv.org/pdf/2304.12210.pdf">A Cookbook of Self-Supervised Learning.</a>
-- <a href="Patch Diffusion: Faster and More Data-Efficient Training of Diffusion Models">Patch Diffusion: Faster and More Data-Efficient Training of Diffusion Models</a>
+- <a href="https://arxiv.org/abs/2304.12526">Patch Diffusion: Faster and More Data-Efficient Training of Diffusion Models</a>
 - <a href="https://arxiv.org/abs/2304.08424">Long-term Forecasting with TiDE: Time-series Dense Encoder</a>
 - <a href="https://arxiv.org/abs/2304.02643v1?utm_source=substack&utm_medium=email">A new model about image segmentation from META</a>
 
 
 ## Language Models:
 - <a href="https://arxiv.org/pdf/2303.17564.pdf">BloombergGPT: A Large Language Model for Finance</a>
-- An article from quantpedia on BERT: https://quantpedia.com/bert-model-bidirectional-encoder-representations-from-transformers/
-  - A news based strategy from quantpedia: https://quantpedia.com/strategies/overnight-reversal-and-the-asymmetric-reaction-to-news/
-  - The corresponding paper: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4307675
+- <a href="https://quantpedia.com/bert-model-bidirectional-encoder-representations-from-transformers/">An article from quantpedia on BERT</a>
+- <a href="https://quantpedia.com/strategies/overnight-reversal-and-the-asymmetric-reaction-to-news/">A news based strategy from quantpedia</a>
+  - <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4307675">The corresponding paper</a>
 - ChatGPT:
   - <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4399406">Can ChatGPT Decipher Fedspeak?</a>
   - <a href="https://quantpedia.com/can-we-backtest-asset-allocation-trading-strategy-in-chatgpt/?a=6080">Can We Backtest Asset Allocation Trading Strategy in ChatGPT?</a>
