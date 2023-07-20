@@ -12,7 +12,7 @@ categories: jekyll update
 - <a href="https://gmarti.gitlab.io//qfin/2023/05/28/qpm-stat-arb.html">[Active Reading with ChatGPT] Quantitative Portfolio Management: The Art and Science of Statistical Arbitrage</a>
 - <a href="https://gmarti.gitlab.io//quant/2023/05/07/wikipedia-network-companies-sentence-transformers.html">Building a S&P 500 company classification from Wikipedia articles (guided by ChatGPT)</a>
 - <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022199623000594">Credit growth, the yield curve and financial crisis prediction: Evidence from a machine learning approach☆</a>
-- <a href="https://www.cell.com/heliyon/pdf/S2405-8440(23)03362-5.pdf">Optimization of investment strategies through machine learning<summary>this is  a summary</summary></a>
+- <a href="https://www.cell.com/heliyon/pdf/S2405-8440(23)03362-5.pdf">Optimization of investment strategies through machine learning<details>this is  a summary</details></a>
 
 
 ## ML Research:
